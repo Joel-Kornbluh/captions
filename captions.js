@@ -18,9 +18,6 @@ function captionFlow(o){
     //you can use 'multiInterval' to set intervals between captions
     //multiInterval(default = 2000) if multiple = true and text is an array of captions, specify interval - in ms - betwwen captions
 
-
-
-
     //check if the core elements are defined
     if(!o || typeof o != 'object' || !o['elt'] || !o['text']){
         return false;
