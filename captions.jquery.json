@@ -1,0 +1,10 @@
+{
+    "name": "captions",
+    "version":"1.0",
+    "title":"A lightweight plugin which provides a simple interface to dynamically add / animate captions of text over images/elements. Usefull in slideshows and ads.",
+    "author":"Joel Kornbluh",
+    "licences":{"type":"GPLv3","url":"http://opensource.org/licenses/GPL-3.0"},
+    "dependencies":"jquery",
+    "description":"",
+    "keywords":["slideshow","slideshows","caption","images","side text","animation",""]
+}
