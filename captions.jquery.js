@@ -1,3 +1,30 @@
+/**
+ * Captions
+ *
+ * A lightweight jQuery plugin which provides a simple interface to dynamically add / animate captions of text over images/elements. 
+ *
+ * @package		Captions
+ * @author		Joel-Kornbluh
+ * @copyright           Copyright (c) 2012 - 2013.
+ * @license		http://opensource.org/licenses/GPL-3.0
+ * @link		https://github.com/Joel-Kornbluh/captions
+ * @since		Version 1.0
+ * @filesource
+ */
+
+// ------------------------------------------------------------------------
+
+/**
+ * Captions - jQuery plugin
+ *
+ * @package		Captions
+ * @category            animation
+ * @author		Joel-Kornbluh
+ * @link
+ */
+
+
+
 (function($){
 
     $.fn.captions = function(o){
